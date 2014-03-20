@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <colorTheme id="1115" name="Solarized Dark." modified="2012-06-05 15:41:03" author="Miguel Cervantes">
-    <searchResultIndication color="#073642" />
-    <filteredSearchResultIndication color="#073642" />
-    <occurrenceIndication color="#073642" />
-    <writeOccurrenceIndication color="#073642" />
+    <searchResultIndication color="#93a1a1" bold="true" box="true" />
+    <filteredSearchResultIndication color="#93a1a1" bold="true" box="true" />
+    <occurrenceIndication color="#93a1a1" bold="true" box="true" />
+    <writeOccurrenceIndication color="#93a1a1" bold="true" box="true" />
     <findScope color="#E0E2E4" />
     <deletionIndication color="#E0E2E4" />
     <sourceHoverBackground color="#FFFFFF" />
